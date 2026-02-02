@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: Issei Hasegawa
 
 ## Reading Syllabus Pledge
 
@@ -28,7 +28,7 @@ their Junior Seminar Research Project.
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: IsseiHasegawa
 
 ## GitHub Repositories
 
@@ -50,7 +50,11 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+Design and Performance Analysis of
+an In-Memory Cache Server in C++
+— Bottleneck Analysis Using a
+Memcached-Compatible
+Implementation and Flame Graphs —
 ```
 
 ## Research Group Contributions
@@ -65,11 +69,10 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
+- **Researcher Name / Project**: [Preston Smith, PathMaker:A Tool For Analyzing, Developing and Benchmarking Path-finding Algorithms.]
+- **Feedback Provided**: \[The introduction is well organized and easy to follow\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/8]
 
 Example entries:
 
