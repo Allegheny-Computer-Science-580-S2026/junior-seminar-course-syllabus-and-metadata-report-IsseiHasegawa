@@ -162,34 +162,34 @@ for `CMPSC 580` at Allegheny College.
 
 #### Research Group Participation
 
-- [ ] The researcher regularly attended the weekly research group meetings
-- [ ] The researcher actively participated in research discussions and
+- [x] The researcher regularly attended the weekly research group meetings
+- [x] The researcher actively participated in research discussions and
   technical exchanges
-- [ ] The researcher contributed meaningfully to collaborative
+- [x] The researcher contributed meaningfully to collaborative
   brainstorming sessions
-- [ ] The researcher provided constructive peer review and feedback
+- [x] The researcher provided constructive peer review and feedback
   for research journal entries, prototypes, and report chapters
-- [ ] The researcher provided constructive peer review and feedback
+- [x] The researcher provided constructive peer review and feedback
   during research presentations
-- [ ] The researcher asked thoughtful questions during research talks
+- [x] The researcher asked thoughtful questions during research talks
   and group discussions
-- [ ] The researcher demonstrated professional behavior and collegial
+- [x] The researcher demonstrated professional behavior and collegial
   respect for fellow researchers
 
 #### Research Adviser Meetings
 
-- [ ] The researcher met with their research adviser on a weekly basis
-- [ ] The researcher came to research consultations with a planned
+- [x] The researcher met with their research adviser on a weekly basis
+- [x] The researcher came to research consultations with a planned
   agenda and prepared materials
-- [ ] The researcher left research meetings with clear action items and
+- [x] The researcher left research meetings with clear action items and
   next steps
-- [ ] The researcher consistently completed research activities
+- [x] The researcher consistently completed research activities
   according to agreed timelines
-- [ ] The researcher demonstrated growth in their knowledge of their
+- [x] The researcher demonstrated growth in their knowledge of their
   research domain
-- [ ] The researcher demonstrated growth in their ability to conduct
+- [x] The researcher demonstrated growth in their ability to conduct
   independent research in computer and information science
-- [ ] The researcher provided feedback on the research group's processes
+- [x] The researcher provided feedback on the research group's processes
   and suggested improvements
 
 #### Research Journal
@@ -203,27 +203,27 @@ as of the final submission deadline (May 1, 2026). If you do not revise a
 journal entry after receiving feedback, the initial grade you received for that
 entry will stand.
 
-- [ ] The student created a research journal website using Quarto
+- [x] The student created a research journal website using Quarto
   and GitHub Pages
-- [ ] The research journal contains all seven required entries with
+- [x] The research journal contains all seven required entries with
   appropriate dates
-- [ ] Entry 1: Research Idea clearly describes the proposed research
+- [x] Entry 1: Research Idea clearly describes the proposed research
   problem and approach
-- [ ] Entry 2: Prototype Installation and Use provides clear
+- [x] Entry 2: Prototype Installation and Use provides clear
   documentation
-- [ ] Entry 3: Brainstorming and Prototyping Experience reflects on
+- [x] Entry 3: Brainstorming and Prototyping Experience reflects on
   the ideation and development process
-- [ ] Entry 4: Chapters 1 and 2 Reflections demonstrates critical
+- [x] Entry 4: Chapters 1 and 2 Reflections demonstrates critical
   thinking about the introduction and related work
-- [ ] Entry 5: Chapters 3 and 4 Reflections shows thoughtful
+- [x] Entry 5: Chapters 3 and 4 Reflections shows thoughtful
   analysis of methods and experimental results
-- [ ] Entry 6: Chapter 5 Reflection synthesizes learning from the
+- [x] Entry 6: Chapter 5 Reflection synthesizes learning from the
   conclusion
-- [ ] Entry 7: Overall Project Reflection provides comprehensive
+- [x] Entry 7: Overall Project Reflection provides comprehensive
   overview and identifies next steps
-- [ ] The research journal demonstrates consistent effort throughout
+- [x] The research journal demonstrates consistent effort throughout
   the semester
-- [ ] The journal entries show evidence of iterative problem-solving
+- [x] The journal entries show evidence of iterative problem-solving
   and growth
 
 #### Research Idea Pitch Presentation
@@ -237,23 +237,23 @@ Wednesday of Week 6 (i.e., about 10 researchers per day), each researcher has 5
 minutes total (3 minutes presentation + 2 minutes Q&A). Time limits are strictly
 enforced.
 
-- [ ] The researcher gave the presentation on the assigned date (Week 6)
-- [ ] The presentation featured effective and well-designed slides
-- [ ] The presentation included an accessible overview of the proposed
+- [x] The researcher gave the presentation on the assigned date (Week 6)
+- [x] The presentation featured effective and well-designed slides
+- [x] The presentation included an accessible overview of the proposed
   research
-- [ ] The presentation clearly articulated the research problem and
+- [x] The presentation clearly articulated the research problem and
   motivation
-- [ ] The presentation outlined the proposed methodology and approach
-- [ ] The presentation discussed the expected outcomes and contributions
-- [ ] The researcher effectively answered questions from the research
+- [x] The presentation outlined the proposed methodology and approach
+- [x] The presentation discussed the expected outcomes and contributions
+- [x] The researcher effectively answered questions from the research
   group
-- [ ] The researcher completed the presentation within the stated time
+- [x] The researcher completed the presentation within the stated time
   limit (3 minutes)
-- [ ] The researcher completed the question and answer session within
+- [x] The researcher completed the question and answer session within
   the stated time limit (2 minutes)
-- [ ] The presentation demonstrated clear understanding of the research
+- [x] The presentation demonstrated clear understanding of the research
   area
-- [ ] The presentation showed evidence of thorough preparation and
+- [x] The presentation showed evidence of thorough preparation and
   practice
 
 #### Research Prototype Demonstration (Week 7)
@@ -270,25 +270,25 @@ Wednesday of Week 7 (i.e., about 10 researchers per day), each researcher has 5
 minutes total (3 minutes demonstration + 2 minutes Q&A). Time limits are
 strictly enforced.
 
-- [ ] The researcher completed the prototype demonstration on the
+- [x] The researcher completed the prototype demonstration on the
   assigned date
-- [ ] The demonstration clearly showed the research prototype in action
-- [ ] The researcher effectively explained the core functionality and
+- [x] The demonstration clearly showed the research prototype in action
+- [x] The researcher effectively explained the core functionality and
   research contributions
-- [ ] The demonstration included key features relevant to the research
+- [x] The demonstration included key features relevant to the research
   questions
-- [ ] The researcher provided clear installation and usage instructions
-- [ ] The prototype's GitHub repository contains comprehensive
+- [x] The researcher provided clear installation and usage instructions
+- [x] The prototype's GitHub repository contains comprehensive
   documentation
-- [ ] The prototype demonstrates meaningful progress toward research
+- [x] The prototype demonstrates meaningful progress toward research
   goals
-- [ ] The researcher handled questions and technical issues
+- [x] The researcher handled questions and technical issues
   professionally
-- [ ] The demonstration was well-organized and followed a logical
+- [x] The demonstration was well-organized and followed a logical
   sequence
-- [ ] The prototype represents substantial research effort and technical
+- [x] The prototype represents substantial research effort and technical
   achievement
-- [ ] The researcher articulated connections between the prototype and
+- [x] The researcher articulated connections between the prototype and
   research objectives
 
 #### Research Results Presentation (Week 13)
@@ -302,24 +302,24 @@ Wednesday of Week 13 (i.e., about 10 researchers per day), each researcher has 5
 minutes total (3 minutes presentation + 2 minutes Q&A). Time limits are strictly
 enforced.
 
-- [ ] The researcher gave the presentation on the assigned date
-- [ ] The presentation featured effective and well-designed slides
-- [ ] The presentation summarized the research problem and methodology
-- [ ] The presentation clearly presented experimental results with
+- [x] The researcher gave the presentation on the assigned date
+- [x] The presentation featured effective and well-designed slides
+- [x] The presentation summarized the research problem and methodology
+- [x] The presentation clearly presented experimental results with
   appropriate visualizations
-- [ ] The presentation discussed the implications of the findings
-- [ ] The presentation addressed the research questions posed at the
+- [x] The presentation discussed the implications of the findings
+- [x] The presentation addressed the research questions posed at the
   beginning
-- [ ] The presentation included discussion of future work and
+- [x] The presentation included discussion of future work and
   limitations
-- [ ] The researcher effectively answered questions from the research
+- [x] The researcher effectively answered questions from the research
   group
-- [ ] The researcher completed the presentation within the stated time
+- [x] The researcher completed the presentation within the stated time
   limit (3 minutes)
-- [ ] The researcher completed the question and answer session within
+- [x] The researcher completed the question and answer session within
   the stated time limit (2 minutes)
-- [ ] The presentation demonstrated mastery of the research topic
-- [ ] The presentation showed evidence of thorough preparation and
+- [x] The presentation demonstrated mastery of the research topic
+- [x] The presentation showed evidence of thorough preparation and
   practice
 
 #### Research Report Requirements
@@ -335,79 +335,79 @@ deadline of May 1, 2026.
 
 ##### General Report Requirements
 
-- [ ] The abstract provides a concise and compelling summary of the
+- [x] The abstract provides a concise and compelling summary of the
   research
-- [ ] The report was submitted on time as a PDF in a tagged release
+- [x] The report was submitted on time as a PDF in a tagged release
   on GitHub
-- [ ] The GitHub repository contains evidence of many commits
+- [x] The GitHub repository contains evidence of many commits
   throughout the semester
-- [ ] The GitHub repository contains multiple releases using the
+- [x] The GitHub repository contains multiple releases using the
   [Semantic Versioning Standard](https://semver.org/)
-- [ ] In adherence to the [Semantic Versioning
+- [x] In adherence to the [Semantic Versioning
   Standard](https://semver.org/), the repository contains releases
   with version numbers `1.0.0+` for Chapter 1, `2.0.0+` for Chapter 2,
   `3.0.0+` for Chapter 3, `4.0.0+` for Chapter 4, and `5.0.0+` for
   Chapter 5
-- [ ] The report has the correct format created through the use of
+- [x] The report has the correct format created through the use of
   Quarto, Pandoc, and LaTeX using the Allegheny CIS template
-- [ ] The title of the report is both interesting and appropriate
-- [ ] The report includes at least twelve high-quality references
-- [ ] Each chapter contains approximately 5 to 7 pages of content in
+- [x] The title of the report is both interesting and appropriate
+- [x] The report includes at least twelve high-quality references
+- [x] Each chapter contains approximately 5 to 7 pages of content in
   the required style
-- [ ] The completed report consists of at least 25 pages of content
+- [x] The completed report consists of at least 25 pages of content
   (approximately 5 chapters × 5 pages minimum)
-- [ ] The report follows a logical flow at the level of chapters,
+- [x] The report follows a logical flow at the level of chapters,
   sections, subsections, and paragraphs
-- [ ] The report includes at least 5 appropriate visual aids such as:
+- [x] The report includes at least 5 appropriate visual aids such as:
   - images
   - figures
   - tables
   - graphs
   - diagrams
-- [ ] The report contains substantial scientific, technical,
+- [x] The report contains substantial scientific, technical,
   engineering, and/or mathematical content
-- [ ] The report highlights and explains the societal impacts and
+- [x] The report highlights and explains the societal impacts and
   ethical implications of the research
-- [ ] There are no typographical or grammatical errors in the report
-- [ ] There is no extraneous text in the report (e.g., text from
+- [x] There are no typographical or grammatical errors in the report
+- [x] There is no extraneous text in the report (e.g., text from
   the template)
 
 ##### Chapter 1: Introduction
 
-- [ ] The introduction clearly describes the research problem
-- [ ] The introduction motivates the work from professional and
+- [x] The introduction clearly describes the research problem
+- [x] The introduction motivates the work from professional and
   academic perspectives
-- [ ] The introduction discusses the broader impacts and societal
+- [x] The introduction discusses the broader impacts and societal
   implications
-- [ ] The introduction outlines the ethical considerations of the
+- [x] The introduction outlines the ethical considerations of the
   work
-- [ ] The introduction previews the structure of the research report
-- [ ] The introduction articulates the key contributions of the
+- [x] The introduction previews the structure of the research report
+- [x] The introduction articulates the key contributions of the
   research
-- [ ] The introduction is approximately 5 to 7 pages in length
+- [x] The introduction is approximately 5 to 7 pages in length
 
 ##### Chapter 2: Related Work
 
-- [ ] The related work section references and describes relevant
+- [x] The related work section references and describes relevant
   literature
-- [ ] The related work section explains how literature connects to
+- [x] The related work section explains how literature connects to
   the research
-- [ ] The related work section synthesizes sources rather than
+- [x] The related work section synthesizes sources rather than
   providing a list
-- [ ] The related work section situates the project in the broader
+- [x] The related work section situates the project in the broader
   research context
-- [ ] The related work section provides support for subsequent
+- [x] The related work section provides support for subsequent
   chapters
-- [ ] The related work section engages with at least 12 high-quality
+- [x] The related work section engages with at least 12 high-quality
   sources
-- [ ] The related work section is approximately 5 to 7 pages in
+- [x] The related work section is approximately 5 to 7 pages in
   length
 
 ##### Chapter 3: Methodology
 
-- [ ] The methodology section explains the research process and
+- [x] The methodology section explains the research process and
   approach
-- [ ] The methodology section describes at least 3 of the following:
+- [x] The methodology section describes at least 3 of the following:
   - description of algorithms
   - programming languages
   - libraries and frameworks
@@ -416,44 +416,44 @@ deadline of May 1, 2026.
   - hardware
   - data sets
   - theoretical foundations
-- [ ] The methodology section explains the design of experiments
-- [ ] The methodology section explains how evaluation metrics are
+- [x] The methodology section explains the design of experiments
+- [x] The methodology section explains how evaluation metrics are
   calculated/collected
-- [ ] The methodology section references the GitHub repository with
+- [x] The methodology section references the GitHub repository with
   the prototype
-- [ ] The methodology section provides examples of input and output
-- [ ] The methodology section includes appropriate diagrams or
+- [x] The methodology section provides examples of input and output
+- [x] The methodology section includes appropriate diagrams or
   figures
-- [ ] The methodology section is approximately 5 to 7 pages in length
+- [x] The methodology section is approximately 5 to 7 pages in length
 
 ##### Chapter 4: Experimental Results
 
-- [ ] The results section describes experiments such that they are
+- [x] The results section describes experiments such that they are
   reproducible
-- [ ] The results section presents data using appropriate
+- [x] The results section presents data using appropriate
   visualizations
-- [ ] The results section includes at least one graph, table, or
+- [x] The results section includes at least one graph, table, or
   chart
-- [ ] The results section analyzes and interprets the experimental
+- [x] The results section analyzes and interprets the experimental
   findings
-- [ ] The results section discusses how results address the research
+- [x] The results section discusses how results address the research
   questions
-- [ ] The results section identifies threats to validity and explains
+- [x] The results section identifies threats to validity and explains
   how they were mitigated
-- [ ] The results section is approximately 5 to 7 pages in length
+- [x] The results section is approximately 5 to 7 pages in length
 
 ##### Chapter 5: Conclusion and Future Work
 
-- [ ] The conclusion summarizes the research and key findings
-- [ ] The conclusion discusses the impact and significance of the
+- [x] The conclusion summarizes the research and key findings
+- [x] The conclusion discusses the impact and significance of the
   work
-- [ ] The conclusion critically reflects on the research process
-- [ ] The conclusion outlines specific avenues for future work with
+- [x] The conclusion critically reflects on the research process
+- [x] The conclusion outlines specific avenues for future work with
   sufficient detail
-- [ ] The conclusion revisits ethical implications in light of the
+- [x] The conclusion revisits ethical implications in light of the
   results
-- [ ] The conclusion provides closure to the research narrative
-- [ ] The conclusion is approximately 5 to 7 pages in length
+- [x] The conclusion provides closure to the research narrative
+- [x] The conclusion is approximately 5 to 7 pages in length
 
 #### Research Prototype
 
@@ -555,26 +555,26 @@ prototype should require human subjects as this would necessitate IRB approval
 that is not feasible in the timeframe of this course. Ultimately, you should
 ensure that your prototype meets the following baseline requirements:
 
-- [ ] The prototype's source code exists in a publicly available
+- [x] The prototype's source code exists in a publicly available
   GitHub repository
-- [ ] The prototype's repository contains comprehensive installation
+- [x] The prototype's repository contains comprehensive installation
   instructions
-- [ ] The prototype's repository contains clear usage documentation
-- [ ] The prototype can be installed and used by someone other than
+- [x] The prototype's repository contains clear usage documentation
+- [x] The prototype can be installed and used by someone other than
   the creator
-- [ ] The prototype's repository demonstrates software development
+- [x] The prototype's repository demonstrates software development
   best practices (e.g., meaningful commit messages, organized file
   structure)
-- [ ] The prototype addresses the research problem described in the
+- [x] The prototype addresses the research problem described in the
   report
-- [ ] The prototype's repository contains evidence of regular commits
+- [x] The prototype's repository contains evidence of regular commits
   throughout the semester
-- [ ] The prototype demonstrates appropriate technical complexity for
+- [x] The prototype demonstrates appropriate technical complexity for
   junior-level work
-- [ ] The prototype includes adequate error handling and validation
-- [ ] The prototype's repository contains clear examples and
+- [x] The prototype includes adequate error handling and validation
+- [x] The prototype's repository contains clear examples and
   demonstrations
-- [ ] The prototype successfully supports the experimental work
+- [x] The prototype successfully supports the experimental work
   described in the report
 
 Again, it is important to stress that your prototype must be substantial enough
