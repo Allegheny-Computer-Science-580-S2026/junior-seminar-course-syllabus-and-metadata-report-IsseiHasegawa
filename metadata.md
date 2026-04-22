@@ -147,3 +147,16 @@ Please use this section to record any other relevant information about your
 Junior Seminar research project, your research process, or any other
 information that your research adviser or the research group coordinator deems
 important for you to document.
+
+- **Current Research Focus**: Investigating trade-offs between failure detection
+  settings and replication modes in a distributed key-value store.
+- **Prototype Scope**: Implementing and evaluating `none`, `sync`, and `async`
+  replication strategies with controlled fault injection experiments.
+- **Primary Evaluation Metrics**: Detection latency, downtime, write latency,
+  throughput, false positives, and durability-related behavior after crashes.
+- **Ethical and Professional Commitment**: Conducting all experiments in a
+  controlled environment, reporting limitations transparently, and avoiding
+  overgeneralization of results beyond tested conditions.
+- **Planned Next Steps**: Finalize chapter revisions from adviser feedback,
+  complete journal polishing, verify references and formatting, and prepare the
+  final tagged release for submission.
