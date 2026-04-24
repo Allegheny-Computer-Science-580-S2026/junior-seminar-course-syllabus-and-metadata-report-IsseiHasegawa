@@ -43,6 +43,7 @@ A research group member should type their GitHub username below.
 ### GitHub Repository for Research Data
 
 - **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+// TODO
 
 ## Research Project Title
 
@@ -74,6 +75,47 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/8]
 
+- **Researcher Name / Project**: [Preston Smith, PathMaker:A Tool For Analyzing, Developing and Benchmarking Path-finding Algorithms.]
+- **Feedback Provided**: \[One strength is that the sources consistently converge on a shared problem: the limitations of existing approaches and tools.
+The discussion links theory (complexity and empirical analysis), algorithms, visualization tools, and robotics/game engines to a common motivation, showing that across different domains there is a lack of integrated, systematic benchmarking environments. This gives the related work a clear sense of overall coherence.\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/10#issue-3917783178]
+
+- **Researcher Name / Project**: [Autumn Davison, Uppehälle Planner: A Recipe Planner for People Who Suffer from Dietary Restrictions]
+- **Feedback Provided**: \[The project description is clear and easy to understand. The report does a good job explaining the overall purpose of the Uppehälle Planner and the problem it aims to address. By introducing the challenges that people with food allergies and dietary restrictions face, the project establishes a clear context for why a recipe filtering system can be useful.\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn/issues/2#issue-4072772720]
+
+- **Researcher Name / Project**: [Benedek Kaibas, Pytifex: An Automated Differential Testing Agent For Python Type Checkers]
+- **Feedback Provided**: \[The sources are generally relevant and aligned with the research goal, but cohesion is uneven across sections.
+While all sources relate to testing or validating type checkers, the connection between sections—especially between automated test generation (2.3), mutation/MSR (2.4), and LLM-based generation (2.5)—is not always clearly unified under a single narrative.
+
+Some parts feel like parallel discussions rather than a tightly integrated argument. In particular, the distinction between traditional test generation and LLM-based generation is not always clearly framed, making their roles in the overall system slightly ambiguous.\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-benedekaibas/issues/16#issue-4109714385]
+
+- **Researcher Name / Project**: [Preston Smith, PathMaker:A Tool For Analyzing, Developing and Benchmarking Path-finding Algorithms.]
+- **Feedback Provided**: \[The methods chapter describes how the project developed PathMaker, a tool designed to analyze, visualize, and benchmark pathfinding algorithms. The research produced a system that allows users to create custom environments, run different algorithms (e.g., Dijkstra), and automatically measure their performance across varying conditions. In addition, the tool integrates features like interactive visualization and automated benchmarking, enabling both understanding of algorithm behavior and systematic comparison of performance. Overall, the project produced a unified platform that combines experimentation, visualization, and analysis in one system]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Poiuy7312/issues/15#issue-4110568480]
+
+- **Researcher Name / Project**: [Autumn Davison, Uppehälle Planner: A Recipe Planner for People Who Suffer from Dietary Restrictions]
+- **Feedback Provided**: \[This project produced a lightweight, client-side web application called the Uppehälle Planner that helps users find safe recipes based on their allergen restrictions. The system uses a structured dataset and a deterministic filtering algorithm to exclude recipes containing selected allergens and display only safe options. Overall, the research demonstrates how a simple, reliable, and transparent design can effectively support users in making safer food choices without requiring complex backend systems or machine learning.\]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Aufumn/issues/9#issue-4206377870]
+
+- **Researcher Name / Project**: [Hannah Brown, GameyAI: A Tool to Help Check for Similarity in Video Games]
+- **Feedback Provided**: \[This chapter explains the background and prior research that supports the development of the GameyAI tool. It highlights key challenges in the video game industry, such as copyright risks, idea similarity, and the difficulty of tracking existing games. The chapter also discusses how natural language processing, particularly spaCy and word embeddings, can be used to analyze similarities between game descriptions. Additionally, it introduces testing approaches, including automated testing, to ensure the reliability of the tool. Overall, the research supports the need and feasibility of GameyAI as a tool for detecting similarity in video game ideas.]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hannahb09/issues/9#issue-4206391024]
+
+- **Researcher Name / Project**: [Kristian Janc, Cognitive Fatigue Agents]
+- **Feedback Provided**: \[This chapter describes the design, implementation, and evaluation of a real-time cognitive fatigue detection system using behavioral interaction data such as mouse movements and reaction time. The system is structured as a Chrome extension with a modular architecture consisting of data collection, processing, and interface layers. It introduces a key metric, mouse efficiency, to quantify user performance and detect deviations from a personalized baseline. The methodology includes feature engineering, rule-based detection, and potential machine learning extensions. Overall, the research demonstrates a scalable, non-intrusive approach to fatigue detection without requiring specialized hardware.]
+- **Impact**: [If applicable, note how your feedback influenced their work]
+- **Reference**: [https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-krisjanci/issues/9#issue-4206403004]
+
+
+
 Example entries:
 
 - **Student Name One / Machine Learning Bias Detection**: Suggested examining
@@ -90,9 +132,9 @@ Example entries:
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
+- **Discussion Topic / Problem**: [Github actions]
+- **Your Contribution**: [Kristian have never used github before this class, so I taugh him the basic github actions such as clone, add. and push.]
+- **Outcome**: [He knows how to clone the repo and save it on the github]
 
 Example entries:
 
@@ -108,9 +150,9 @@ Example entries:
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Meeting Date / Topic**: [March 23, Diagram ]
+- **Contribution**: [In the class, I shared my idea about why you need diagrams on paper and what is the good diagram.]
+- **Value to Group**: [The research communities know what elements they need to make the diagram clear to be understood.]
 
 Example entries:
 
@@ -128,9 +170,9 @@ Example entries:
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [Distributed key-Value Stores]
+- **Shared With**: [Entire group]
+- **Purpose**: [I needed to explain what is distributed key-value stores because almost all people do not know what is distributed key-value stores and how it related to my research project.]
 
 Example entries:
 
@@ -147,6 +189,7 @@ Please use this section to record any other relevant information about your
 Junior Seminar research project, your research process, or any other
 information that your research adviser or the research group coordinator deems
 important for you to document.
+
 
 - **Current Research Focus**: Investigating trade-offs between failure detection
   settings and replication modes in a distributed key-value store.
