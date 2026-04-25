@@ -38,12 +38,11 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/IsseiHasegawa/Research)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/IsseiHasegawa/Key-Value-stores)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
-// TODO
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/IsseiHasegawa/Research-data)
 
 ## Research Project Title
 
@@ -151,7 +150,7 @@ Example entries:
 Note particularly meaningful contributions during research group meetings:
 
 - **Meeting Date / Topic**: [March 23, Diagram ]
-- **Contribution**: [In the class, I shared my idea about why you need diagrams on paper and what is the good diagram.]
+- **Contribution**: [In the class, I shared my idea about why you need diagrams on our paper and what is the good diagram.]
 - **Value to Group**: [The research communities know what elements they need to make the diagram clear to be understood.]
 
 Example entries:
